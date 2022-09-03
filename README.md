@@ -3,6 +3,12 @@
 
 Proyecto de la asignatura de Fundamentos de inteligencia artificial
 
+Link al video de la explicación técnica y funcionalidad:
+https://www.youtube.com/watch?v=afW3y8QyXWI
+
+Link al video del manual de usuario:
+https://www.youtube.com/watch?v=oqldVaP1W7Y
+
 Para la realización de este proyecto fue necesario tener instalados en python: Numpy, OpenCV Y MediaPipe.
 
 SE dispone de un dataset con dos clases, por un lado tenemos imágenes a color de rostros con mascarillas y por otro índice tenemos imágenes de rostros de personas sin mascarillas. 
