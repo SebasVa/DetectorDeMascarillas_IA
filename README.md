@@ -8,7 +8,7 @@ SE dispone de un dataset con dos clases, por un lado tenemos imágenes a color d
 
 ![image](https://user-images.githubusercontent.com/58050574/188272449-8580931c-a85b-47c2-9185-7ce5dfac5e68.png)
 
-![image](https://user-images.githubusercontent.com/58050574/188272456-b93c9de9-f3ac-46b5-b0ed-36dd236f0a47.png)
+![image](https://user-images.githubusercontent.com/58050574/188272654-125e3a3d-38e0-4b93-9e66-a0e79b4f6f3a.png)
 
 scripts de entrenamiento y de prueba
 
