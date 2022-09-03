@@ -1,5 +1,6 @@
 # DetectorDeMascarillas_IA
 - Sebastián Valencia
+
 Proyecto de la asignatura de Fundamentos de inteligencia artificial
 
 Para la realización de este proyecto fue necesario tener instalados en python: Numpy, OpenCV Y MediaPipe.
